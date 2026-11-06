@@ -1,0 +1,189 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.body {
+    font-family: "Arial, Helvetica, sans-serif";
+}
+/*Registration*/
+.registration  {
+  background: aquamarine;
+  color: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 420px; 
+  border: 5px solid rgb(23, 110, 224);
+  border-radius: 15px;
+  box-shadow: -20px 20px 20px black;
+
+}
+
+.registration h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 25px;
+}
+
+.registration br {
+    display: none;
+}
+
+/* Labels */
+.registration label {
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+  margin-bottom: 6px;
+}
+
+/* Input boxes (colored) */
+.registration  input {
+  width: 100%;
+  padding: 11px 14px;
+  margin-bottom: 16px;
+  background: #f1f8e9;
+  border: 2px solid #c8e6c9;
+  border-radius: 8px;
+  font-size: 14px;
+}
+/* Register button */
+.registration button {
+  width: 100%;
+  padding: 13px;
+  margin-top: 6px;
+  border-radius: 8px;
+  background: #5492e3;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/*LogIn Section*/
+.loginSection  {
+  background: aquamarine;
+  color: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 420px; 
+  border: 1px solid white;
+  border-radius: 15px;
+  box-shadow: -20px 20px 20px black;
+
+}
+
+.loginSection h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 25px;
+}
+
+.loginSection br {
+    display: none;
+}
+
+/* Labels */
+.loginSection label {
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+  margin-bottom: 6px;
+}
+
+/* Input boxes (colored) */
+.loginSection  input {
+  width: 100%;
+  padding: 11px 14px;
+  margin-bottom: 16px;
+  background: #f1f8e9;
+  border: 2px solid #c8e6c9;
+  border-radius: 8px;
+  font-size: 20px;
+}
+/* LoginSection button */
+.loginSection button {
+  width: 100%;
+  padding: 13px;
+  margin-top: 6px;
+  border-radius: 8px;
+  background: #5492e3;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/*Grocery Section*/
+.grocerySection  {
+  background: aquamarine;
+  color: white;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 420px; 
+  border: 1px solid white;
+  border-radius: 15px;
+  box-shadow: -20px 20px 20px black;
+
+}
+
+
+.grocerySection h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 25px;
+}
+.grocerySection h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: black;
+    font-size: 25px;
+}
+
+.grocerySection br {
+    display: none;
+}
+
+/* Labels */
+.grocerySection label {
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  color: black;
+  margin-bottom: 6px;
+}
+
+.grocerySection ul {
+  font-size: 20px;
+  font-weight: 20px;
+  color: black;
+  text-align: center;
+  list-style-position: inside;
+}
+
+/* Input boxes (colored) */
+.grocerySection  input {
+  width: 100%;
+  padding: 11px 14px;
+  margin-bottom: 16px;
+  background: #f1efef;
+  border: 2px solid #c8e6c9;
+  border-radius: 8px;
+  font-size: 20px;
+}
+/* Grocery button */
+.grocerySection button {
+  width: 100%;
+  padding: 13px;
+  margin-top: 6px;
+  border-radius: 8px;
+  background: #5492e3;
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+}
